@@ -1,4 +1,0 @@
-RES1778222102723|The Viana Grand|Colombo|9 am - 10 pm|USR1778222102719
-RES1778391912678|Ministry of Crab|Old Dutch Hospital Complex, 04 Hospital St, Colombo|12:00 PM - 10:30 PM|USR1778388514807
-RES1778400176184|The Gallery Cafe|2 Alfred House Rd, Colombo|10:00 AM - 11:30 PM|USR1778388514807
-RES1778401594023|Nuga Gama|Cinnamon Grand, 77 Galle Rd, Colombo|12:00 PM - 10:30 PM|USR1778400972198

@@ -1,5 +1,0 @@
-USR_ADMIN|System Admin|admin@tablebook.com|admin123|ADMIN
-USR1778388405445|Test User|test@test.com|password123|CUSTOMER
-USR1778388514807|Test Owner|owner@test.com|password123|OWNER
-USR1778400972198|Kamal Akanalnka|kamal@gmail.com|123456|OWNER
-USR1778920736222|heaven|heaven@gmail.com|heaven123|OWNER
